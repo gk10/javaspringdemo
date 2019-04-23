@@ -1,6 +1,6 @@
 # Java Spring twitter demo
 
-This project can be ran with mvn spring-boot:run, and is set to run on port 5012.
+This project can be ran by navigating to the project's directory and running mvn spring-boot:run from a terminal. It is set to run on port 5012.
 
 * Configuration
   * The project requires access to a database to function properly. You should make changes to the application.properties file found in
